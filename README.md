@@ -1,5 +1,5 @@
 # trendingRedditImageExtractor
-Webscrapper (with libcurl) that gathers currently trending wallpaper images from several subreddits and potentially store them or set them to the background. (Works for Windows only)
+Webscraper (with libcurl) that gathers currently trending wallpaper images from several subreddits and potentially store them or set them to the background. (Works for Windows only)
 
 Unfortunately, this is Windows only program. When new image is downloaded, it automatically sets the image as background then it asks user if they want to save the image in separate folder. Since setting image as background was done with window specific functions, Mac machines cannot run this at all.
 
